@@ -1,3 +1,4 @@
 resolusi
 - backend
-- 
+- frontend
+- webdev
