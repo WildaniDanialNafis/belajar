@@ -1,4 +1,4 @@
 resolusi
 - backend
-- frontend
 - webdev
+- defOps
